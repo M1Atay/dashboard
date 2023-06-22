@@ -1,0 +1,14 @@
+.form-control::placeholder {
+    color: white;
+    font-style: italic;
+    opacity: 0.5;
+}
+
+.bg-container {
+    background-color: #2e2e2e;
+    width: 35%;
+}
+
+input:focus {
+    outline: none;
+}

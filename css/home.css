@@ -1,0 +1,23 @@
+body{
+    background-color: #383636;
+}
+
+.navbar-color {
+    background-color: #212121;
+}
+
+.container-color {
+    background-color: #262626;
+}
+
+.row{
+    margin-top: 200px;
+}
+
+.images{
+    height: 300px;
+}
+
+.btn{
+    background-color: blue;
+}
